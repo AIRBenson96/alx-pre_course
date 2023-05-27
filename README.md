@@ -1,1 +1,3 @@
-This is the README file for the alx-pre_course repository.
+My first readme
+How to be up to date in git
+
